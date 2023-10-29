@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Gym Membership - Basic",
+        "price": 29.99,
+        "features":[ "Access to fitness equipment","Access to fitness equipment, group classes, and sauna","One-hour consultation with a nutritionist"]
+    },
+    {
+        "id": 2,
+        "name": "Gym Membership - Premium",
+        "price": 49.99,
+        "features": ["Access to fitness equipment","One-hour consultation with a nutritionist", "group classes",  "sauna","Access to fitness", "equipment"]
+    },
+    {
+        "id": 3,
+        "name": "Personal Training Session",
+        "price": 39.99,
+        "features": "One-hour session with a personal trainer"
+    },
+    {
+        "id": 4,
+        "name": "Nutrition Consultation",
+        "price": 19.99,
+        "features": ["Access to fitness equipment","One-hour consultation with a nutritionist", "group classes",  "sauna","Access to fitness", "equipment"]
+    }
+]
